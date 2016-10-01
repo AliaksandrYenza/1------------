@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  osisp1.cpp
+e:\osisp1\shape.h(39): warning C4101: tempY: неиспользованная локальная переменная
+e:\osisp1\shape.h(38): warning C4101: tempX: неиспользованная локальная переменная
+e:\osisp1\osisp1.cpp(273): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+  osisp1.vcxproj -> E:\osisp1\Debug\osisp1.exe
